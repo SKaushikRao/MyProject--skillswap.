@@ -1,5 +1,3 @@
-# MyProject--skillswap.
-A community platform for people to exchange their skills and learn something new for free.
 SkillSwap is a free skill exchange platform where people can teach and learn from each other without money. It connects users with complementary skills, enabling mutual learning, community building, and knowledge sharing.
 This project was generated using Create and spline.
 
